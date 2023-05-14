@@ -1,2 +1,0 @@
-# barplot.py
-DATA VISUALIZATION IN PYTHON 
