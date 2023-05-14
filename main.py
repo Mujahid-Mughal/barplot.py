@@ -20,3 +20,9 @@ plt.xlabel("Years")
 plt.ylabel("Values in USD")
 plt.grid(True)
 plt.show()
+
+# FOR LINE PLOT USE COMMAND
+plt.plot(year, values)
+
+#FOR SCATTER PLOT USE COMMAND
+plt.scatter(year, values)
