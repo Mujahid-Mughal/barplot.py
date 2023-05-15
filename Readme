@@ -5,20 +5,20 @@ This is a Python project that demonstrates how to create data visualizations usi
 Matplotlib is a powerful library for creating a wide range of visualizations, including;
 1. Line Plots, 2. Bar Plots, 3. Scatter Plots, 4. Histograms, and more.
 
-#REQUIREMENTS
+# REQUIREMENTS
 //////////////
 To run this project, you will need to have the following installed:
 Python (version 3.6 or later)
 Matplotlib (version 3.4.2 or later)
 
 To install the required dependencies, run the following command:
-# pip install matplotlib
+###pip install matplotlib
 or Direct use JUPYTER NOTEBOOK IN YOUR BROWSER.
 ________________________________________________________________
-#USAGE
+# USAGE
 -------
 To run the project, simply run the visualization.py file using the following command:
-# python visualization.py
+###python visualization.py
 This will generate a series of data visualizations based on the data provided in the data.csv file.
 Or you can create by your required data or create your own csv data file.
 ____________________________________________________________________________________________________
@@ -46,7 +46,7 @@ This project demonstrates how to create a range of data visualizations using the
 By analyzing these visualizations, we can gain insights into the data and use this information to make informed decisions.
 ___________________________________________________________________________________________________________________________
 
-T H A N K Y O U . 
+# T H A N K Y O U . 
 ///////////////
 
 
